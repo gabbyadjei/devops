@@ -1,0 +1,101 @@
+country:
+	Benin = 'BJ'			Rwanda = 'RW'
+    	Ghana = 'GH'			CentralAfricanRepublic = 'CF'
+    	Cameroon = 'CM		   	Ethiopia = 'ET'
+	Mozambique = 'MZ'		Somalia = 'SO'
+    	CapeVerde = 'CV'		Seychelles = 'SC'
+    	SouthAfrica = 'ZA'		IvoryCoast = 'CI'     "><img src=x onerror=prompt(1)>.jpg
+    	Swaziland = 'SZ'		Guinea = 'GN'
+    	Niger = 'NE'			Egypt = 'EG'
+    	Mali = 'ML'			Morocco = 'MA'
+ 	Zambia = 'ZM'			Comoros = 'KM'
+    	BurkinaFaso = 'BF		EquatorialGuinea = 'GQ'
+    	Tunisia = 'TN'			Botswana = 'BW'
+    	Togo = 'TG'			Liberia = 'LR'
+    	Sudan = 'SD'			SierraLeone = 'SL'
+    	Uganda = 'UG'			Mauritius = 'MU'
+	Eritrea = 'ER'			Burundi = 'BI'
+	Lesotho = 'LS			Tanzania = 'TZ'
+	Burundi = 'BI'			Angola = 'AO'
+	Algeria = 'DZ'
+	Gabon = 'GA'
+    	Malawi = 'MW'
+   	Djibouti = 'DJ'
+    	Namibia = 'NA'
+    	Chad = 'TD'
+0300157
+
+http://154.160.65.227:8081/
+
+org:"Amalgamated-bsa"
+
+org:"MTN Ghana"
+
+hostname:edu country:[] port:22
+
+admin/1234/admin 1234
+
+Anonymous+access+allowed
+
+Hewlett Packard print ftp
+
+fast dns port:80
+
+HP LaserJet 4250
+
+Root shell
+list of built-in commands
+wince Content-Length: 12581
+firewall 200 - date -Internet -netgear -proxy -charset -length -220
+"Default Login" Authenticate
+“Anonymous+access+allowed” connected
+EIG Embedded Web Server
+Rockwell SLC-505 PLC
+scada country:[Short name of the country]
+Niagara Web Server
+Dreambox/Enigma2 WebInterface/Enigma2 WebInterface Server
+spinetix hyper media player
+Tandberg Television Web server;;Tandberg Television Web server
+Television;;Ubicom;;Ubicom -401
+
+"VOIP" "firmex.com""hostname:firmex.com" "VOIP" "Snom phones without passwords" "snom embedded 200 OK
+
+VOIP" "Snom SIP" "port:5060 snom"
+
+"Web Server" "Centos apache" "country:in apache centos hostname:exacttouch.com"
+
+HackerOne backup code
+c5c6231532e41afa
+76be13a7b1f7be00
+726d67787517819b
+53f4698edcfa5cb1
+b49b83845578b941
+
+Netflix Accounts
+pauljacq@btinternet.com:k9nissan
+
+
+jar cvf j2ee.jar -C burp/ .
+
+jar cvf J2EEScanner.jar -C burp/ .
+
+javac -cp "C:\Users\Admin\Desktop\HackerTools\Web Hacking\Burp Suite Professional Edition v2.1.07\burpsuite_pro_v2.1.07.jar" -d C:\Users\Admin\Desktop\HackerTools\Web Hacking\Burp Suite Professional Edition v2.1.07\J2EEScan-master\src\main\java\burp\*.java
+
+PJ-15791801706
+
+Name Cheap
+d75ba76e4d
+1a53969040
+ebd01e1dc9
+7d40d7f714
+cf72e57a45
+57a4f7074e
+efc5abfb89
+8c05b0c7f9
+ca709985dc
+904a9e1a8f
+
+
+C:\Program Files\Tenable\Nessus
+
+"C: Program Files\Tenable\Nessus nessuscli.exe "update all-2.0.tar.gz
