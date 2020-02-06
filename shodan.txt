@@ -4,7 +4,7 @@ country:
     	Cameroon = 'CM		   	Ethiopia = 'ET'
 	Mozambique = 'MZ'		Somalia = 'SO'
     	CapeVerde = 'CV'		Seychelles = 'SC'
-    	SouthAfrica = 'ZA'		IvoryCoast = 'CI'     "><img src=x onerror=prompt(1)>.jpg
+    	SouthAfrica = 'ZA'		IvoryCoast = 'CI'
     	Swaziland = 'SZ'		Guinea = 'GN'
     	Niger = 'NE'			Egypt = 'EG'
     	Mali = 'ML'			Morocco = 'MA'
@@ -23,7 +23,6 @@ country:
    	Djibouti = 'DJ'
     	Namibia = 'NA'
     	Chad = 'TD'
-0300157
 
 http://154.160.65.227:8081/
 
